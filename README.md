@@ -63,6 +63,5 @@ Cada dia de atraso na entrega resultará em uma **penalização de 1 ponto**.
 
 ---
 
-### Observação
-Este projeto pode ser desenvolvido em grupos de até **3 alunos**.
+![Midori Games](midori_Games_white.png)
 
